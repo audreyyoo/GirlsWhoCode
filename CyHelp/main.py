@@ -1,4 +1,3 @@
-#CyHelp Starter Code
 cybersecurityBirthYear = 1970
 
 #Greets user
