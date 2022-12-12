@@ -1,4 +1,3 @@
-#Breach Bot Starter Code
 breachYear = 2019
 
 #Greets user
