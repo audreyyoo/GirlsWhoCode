@@ -1,7 +1,5 @@
 # Girls Who Code Projects
-This repository contains Audrey Yoo's Girls Who Code projects
-
-GWC Courses:
+Courses:
 
 1. 2022 Summer Immersion Program: Intro to Website Development (June-July)
 
